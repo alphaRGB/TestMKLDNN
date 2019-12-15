@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Gemm_example.dir/gemm_example.cpp.o  -o Gemm_example  -L/home/wei/AA_ubuntu/Libs/mkl-dnn/install/lib -Wl,-rpath,/home/wei/AA_ubuntu/Libs/mkl-dnn/install/lib -ldnnl -lmkldnn 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TestMKLDNN.dir/main.cpp.o  -o TestMKLDNN  -L/home/wei/AA_ubuntu/Libs/mkl-dnn/install/lib -Wl,-rpath,/home/wei/AA_ubuntu/Libs/mkl-dnn/install/lib -ldnnl -lmkldnn 

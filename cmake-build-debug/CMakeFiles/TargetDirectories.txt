@@ -1,0 +1,4 @@
+/home/wei/AA_ubuntu/Project/CLionProject/TestMKLDNN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wei/AA_ubuntu/Project/CLionProject/TestMKLDNN/cmake-build-debug/CMakeFiles/TestMKLDNN.dir
+/home/wei/AA_ubuntu/Project/CLionProject/TestMKLDNN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wei/AA_ubuntu/Project/CLionProject/TestMKLDNN/cmake-build-debug/CMakeFiles/Gemm_example.dir
